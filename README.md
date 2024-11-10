@@ -1,6 +1,6 @@
 # 🌟 **Parthasarathi M | Software Engineer & Developer**
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Parthasarathi+M+GitHub+Profile)
+![Profile Banner](https://media.licdn.com/dms/image/v2/D5616AQHMJHZa_yi4KQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731267832237?e=1736985600&v=beta&t=m3yXNoMzC-UdilQjxuZAo1-P_ekfz9wPfm9cWkldAFA)
 
 Hi, I'm **Parthasarathi M**, a passionate **Software Engineer**, **Backend Developer**, and **Hybrid Mobile App Developer** focused on creating impactful, scalable applications. With expertise in **Flutter**, **Spring Boot**, **Cloud Services**, and **Mobile Development**, I am always seeking new challenges to solve through clean code and innovative solutions.
 
