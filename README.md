@@ -40,7 +40,7 @@ Hi, I'm **Parthasarathi M**, a passionate **Software Engineer**, **Backend Devel
 
 | **Degree**               | **Institution**                                  | **Year**    | **Details**                |  
 |--------------------------|--------------------------------------------------|-------------|----------------------------|  
-| **B.E. Computer Science** | PSG Institute of Technology and Applied Research | 2021–2025   | **8.23 CGPA** (Up to 6th Semester)  
+| **B.E. Computer Science and Engineering** | PSG Institute of Technology and Applied Research | 2021–2025   | **8.23 CGPA** (Up to 6th Semester)  
 | **12th Standard**         | St. Aloysius Higher Secondary School             | May 2021    | **93.79%**  
 | **10th Standard**         | St. Aloysius Higher Secondary School             | Mar 2019    | **94.60%**  
 
