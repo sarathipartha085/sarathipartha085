@@ -1,8 +1,18 @@
-# Hi there, I'm **Parthasarathi M** 👋
+# Hello, I'm **Parthasarathi M** 👋
 
 ![Profile Banner](https://via.placeholder.com/1200x300?text=Parthasarathi+M+GitHub+Profile)
 
-I'm a **Software Engineer** | **Backend Developer** | **Hybrid Mobile Application Developer** passionate about creating robust backend systems and mobile apps. I'm always learning and actively looking for **new opportunities**.
+I'm a **Software Engineer** | **Backend Developer** | **Hybrid Mobile Application Developer** passionate about building robust backend systems and mobile applications. I focus on creating seamless user experiences and efficient code, always learning new technologies and methodologies.
+
+## 🏆 **Top 14 Nationwide** in the **Hack4Change** by **Google** (Sep 2023) 🏆
+
+🔭 **Current Role**: Software Development Intern at **Vyzhan Technologies**  
+🌱 **Learning**: Cloud Services, Backend APIs, Mobile Development (Flutter)  
+👯 **Open to work**: Actively seeking full-time roles in **Backend Development** and **Mobile App Development**  
+💬 **Ask me about**: **Flutter**, **Spring Boot**, **Node.js**, **GCP**, **Firebase**  
+📫 **Contact me via**:
+- **Email**: [sarathipartha085@gmail.com](mailto:sarathipartha085@gmail.com)  
+- **Phone**: +91 81446 63240  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarathipartha085/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sarathipartha085/)
@@ -11,35 +21,17 @@ I'm a **Software Engineer** | **Backend Developer** | **Hybrid Mobile Applicatio
 
 ---
 
-## About Me
-
-🔭 **Current Role**: Software Development Intern at **Vyzhan Technologies**  
-🌱 **Learning**: Cloud Services, Backend APIs, Mobile Development (Flutter)  
-👯 **Open to work**: Actively seeking full-time roles in **Backend Development** and **Mobile App Development**  
-💬 **Ask me about**: **Flutter**, **Spring Boot**, **Node.js**, **GCP**, **Firebase**  
-📫 How to reach me:  
-- Email: [sarathipartha085@gmail.com](mailto:sarathipartha085@gmail.com)  
-- Phone: +91 81446 63240
-
----
-
 ## 🎓 Education
 
-**B.E. in Computer Science and Engineering**  
-PSG Institute of Technology and Applied Research (2021 - 2025)  
-CGPA: 8.22 (up to 5th semester)
-
-**12th Standard**  
-St. Aloysius Higher Secondary School (2021)  
-Percentage: 93.79%
-
-**10th Standard**  
-St. Aloysius Higher Secondary School (2019)  
-Percentage: 94.60%
+| **Degree** | **Institution** | **Year** | **Percentage/CGPA** |
+|------------|-----------------|----------|---------------------|
+| B.E. Computer Science and Engineering | PSG Institute of Technology and Applied Research | Oct 2021 – May 2025 | CGPA: 8.22 (up to 5th semester) |
+| 12th Standard | St. Aloysius Higher Secondary School | May 2021 | 93.79% |
+| 10th Standard | St. Aloysius Higher Secondary School | Mar 2019 | 94.60% |
 
 ---
 
-## 🛠️ Technical Proficiencies
+## 🛠️ Technical Skills
 
 ### **Languages**:
 - **C**, **Java**, **Python**, **Dart**
@@ -67,7 +59,7 @@ Percentage: 94.60%
 ### **Vyzhan Technologies**, Coimbatore  
 **Software Development Intern** (Jun 2024 - Present)  
 - **Tech Stack**: Flutter, ReactJs, Spring Boot, NodeJs, Firebase, GCP  
-- Responsibilities: Rapid prototyping, API creation, Firebase integration, and cloud deployments.
+- Responsibilities: Rapid prototyping, API creation, Firebase integration, cloud deployments.
 
 ### **Elgi Private Limited**, Coimbatore  
 **Mobile App Development Intern** (Apr 2023 - Jul 2023)  
@@ -83,32 +75,35 @@ Percentage: 94.60%
 
 ## 💻 Projects
 
-### 1. **Yukta** – College Symposium 2023 (Launched on Google Play)  
+### 1. **Yukta** – College Symposium 2023 (Launched on Google Play)
 - A mobile app for managing college symposium events.
 
-### 2. **Admin Auth** – OTP Management System  
+### 2. **Admin Auth** – OTP Management System
 - Developed a communication API for sending OTP-based text messages for authentication.
 
-### 3. **Wave** – Real-Time Synchronized Video Streaming Platform  
+### 3. **Wave** – Real-Time Synchronized Video Streaming Platform
 - Enables users to watch videos together in real-time.
 
-### 4. **Expense Approval Workflow – Gen AI**  
+### 4. **Expense Approval Workflow – Gen AI**
 - Developed an AI-based system for auto-routing and auto-approval of expense reports.
 
-### 5. **Instant Messaging Application**  
+### 5. **Instant Messaging Application**
 - Built a real-time instant messaging application using Flutter.
 
-### 6. **Hack4Change** – Agricultural App (Top 14 nationwide)  
-- Developed an app for agricultural purposes, which was featured in the top 14 at **Hack4Change** by Google.
+### 6. **Hack4Change** – Agricultural App  
+- Developed an app for agricultural purposes, which was featured in the **Top 14 Nationwide** at **Hack4Change** by **Google** (highlighted below).
 
 ---
 
-## 🏆 Competitions and Achievements
+## 🏆 Competitions & Achievements
 
-- **1st Prize**: RVS College of Engineering, Coimbatore – Project Presentation (Apr 2024)
-- **1st Prize**: University College of Engineering, Ramanathapuram – Coding (Feb 2023)
-- **1st Prize**: Nandha Engineering College, Erode – Code Debugging (Feb 2023)
-- **Director**: Naan Mudhalvan Short Film Festival 2023 – Directed a short film related to Education.
+| **Event** | **Project** | **Prize** | **Date** |
+|-----------|-------------|-----------|----------|
+| **Hack4Change** by **Google** | Agricultural Application | **Top 14 Nationwide** | Sep 2023 |
+| **RVS College of Engineering, Coimbatore** | Project Presentation | 1st Prize | Apr 2024 |
+| **University College of Engineering, Ramanathapuram** | Coding | 1st Prize | Feb 2023 |
+| **Nandha Engineering College, Erode** | Code Debugging | 1st Prize | Feb 2023 |
+| **Naan Mudhalvan Short Film Festival 2023** | Directed a short film | - | 2023 |
 
 ---
 
@@ -133,4 +128,3 @@ Percentage: 94.60%
 ## 💡 Fun Fact
 
 > "Technology is the future, and I am building it one app at a time."
-
