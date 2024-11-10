@@ -24,7 +24,10 @@ Hi, I'm **Parthasarathi M**, a passionate **Software Engineer**, **Backend Devel
 
 ## 📬 **Get In Touch**
 
-- [LinkedIn](https://www.linkedin.com/in/sarathipartha085/) | [LeetCode](https://leetcode.com/u/sarathipartha085/) | [Email](mailto:sarathipartha085@gmail.com) | [Phone](tel:+918144663240)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarathipartha085/)  
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sarathipartha085/)  
+- [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarathipartha085@gmail.com)  
+- [![Phone](https://img.shields.io/badge/Phone-%2300A859?style=flat&logo=phone&logoColor=white)](tel:+918144663240)  
 
 ---
 
