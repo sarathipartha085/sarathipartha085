@@ -89,6 +89,7 @@ I'm a **Software Engineer**, **Backend Developer**, and **Hybrid Mobile App Deve
 | **Instant Messaging App** | Real-time chat app with messaging and notifications. | ![React](https://img.shields.io/badge/React-%2302569B.svg?&style=flat&logo=react&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) |  
 
 
+
 ---
 
 ## 🏆 **Competitions & Achievements**  
