@@ -1,130 +1,129 @@
-# Hello, I'm **Parthasarathi M** 👋
+# 👋 **Hi, I'm Parthasarathi M!**  
 
 ![Profile Banner](https://via.placeholder.com/1200x300?text=Parthasarathi+M+GitHub+Profile)
 
-I'm a **Software Engineer** | **Backend Developer** | **Hybrid Mobile Application Developer** passionate about building robust backend systems and mobile applications. I focus on creating seamless user experiences and efficient code, always learning new technologies and methodologies.
+I'm a **Software Engineer**, **Backend Developer**, and **Hybrid Mobile App Developer**, dedicated to creating scalable and efficient solutions. Passionate about **Flutter**, **Spring Boot**, and **Cloud Technologies**, I focus on delivering high-quality backend systems and seamless mobile applications that make a difference.
 
-## 🏆 **Top 14 Nationwide** in the **Hack4Change** by **Google** (Sep 2023) 🏆
+---
 
-🔭 **Current Role**: Software Development Intern at **Vyzhan Technologies**  
-🌱 **Learning**: Cloud Services, Backend APIs, Mobile Development (Flutter)  
-👯 **Open to work**: Actively seeking full-time roles in **Backend Development** and **Mobile App Development**  
-💬 **Ask me about**: **Flutter**, **Spring Boot**, **Node.js**, **GCP**, **Firebase**  
-📫 **Contact me via**:
-- **Email**: [sarathipartha085@gmail.com](mailto:sarathipartha085@gmail.com)  
-- **Phone**: +91 81446 63240  
+## 🏆 **Award-Winning Developer**  
+
+- **Top 14 Nationwide** in **[Hack4Change](https://developers.google.com/community/hack4change)** by **Google** (Sep 2023)
+- **1st Prize** in regional coding competitions like **RVS College of Engineering** and **University College of Engineering**
+
+---
+
+## 🔥 **Current Focus & Availability**
+
+- **💼 Role**: Software Development Intern at **Vyzhan Technologies**
+- **📚 Learning**: Cloud Services, Backend APIs, Mobile Development (Flutter)
+- **🎯 Open to Work**: Actively seeking **Backend Developer** and **Mobile App Developer** roles
+- **💬 Ask me about**: **Flutter**, **Spring Boot**, **Node.js**, **GCP**, **Firebase**
+
+---
+
+## 📬 **Let's Connect!**  
+
+- **📧 Email**: [sarathipartha085@gmail.com](mailto:sarathipartha085@gmail.com)  
+- **🔗 LinkedIn**: [Parthasarathi M](https://www.linkedin.com/in/sarathipartha085/)  
+- **💻 LeetCode**: [sarathipartha085](https://leetcode.com/u/sarathipartha085/)  
+- **📱 Phone**: +91 81446 63240  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarathipartha085/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sarathipartha085/)
-[![Gmail](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarathipartha085@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarathipartha085@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2300A859?style=flat&logo=phone&logoColor=white)](tel:+918144663240)
 
 ---
 
-## 🎓 Education
+## 🎓 **Education**  
 
-| **Degree** | **Institution** | **Year** | **Percentage/CGPA** |
-|------------|-----------------|----------|---------------------|
-| B.E. Computer Science and Engineering | PSG Institute of Technology and Applied Research | Oct 2021 – May 2025 | CGPA: 8.22 (up to 5th semester) |
-| 12th Standard | St. Aloysius Higher Secondary School | May 2021 | 93.79% |
-| 10th Standard | St. Aloysius Higher Secondary School | Mar 2019 | 94.60% |
+| **Degree** | **Institution** | **Year** | **CGPA/Percentage** |  
+|------------|-----------------|----------|---------------------|  
+| **B.E. Computer Science** | PSG Institute of Technology | 2021–2025 | **8.22 CGPA** (Up to 5th Semester)  
+| **12th Standard** | St. Aloysius Higher Secondary School | May 2021 | **93.79%**  
+| **10th Standard** | St. Aloysius Higher Secondary School | Mar 2019 | **94.60%**  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ **Technical Skills**  
 
-### **Languages**:
+**Languages**:  
 - **C**, **Java**, **Python**, **Dart**
 
-### **Frameworks**:
-- **Flutter** (3 Years), **Spring Boot**
+**Frameworks**:  
+- **Flutter** (3+ years), **Spring Boot**
 
-### **Cloud & Backend Services**:
-- **GCP** (App Engine, Compute Engine)
-- **Firebase**
+**Cloud & Backend**:  
+- **GCP** (App Engine, Compute Engine), **Firebase**
 
-### **Tools & Platforms**:
+**Tools & Platforms**:  
 - **Linux**, **Windows**
 
-### **Specializations**:
-- Mobile Application Development
-- Backend API Development
-- Cloud Computing & Services
-- Rapid Prototyping
+**Specializations**:  
+- **Mobile Application Development**  
+- **Backend API Development**  
+- **Cloud Computing & Services**  
+- **Rapid Prototyping**
 
 ---
 
-## 💼 Professional Experience
+## 💼 **Professional Experience**  
 
-### **Vyzhan Technologies**, Coimbatore  
-**Software Development Intern** (Jun 2024 - Present)  
-- **Tech Stack**: Flutter, ReactJs, Spring Boot, NodeJs, Firebase, GCP  
-- Responsibilities: Rapid prototyping, API creation, Firebase integration, cloud deployments.
+### **Software Development Intern** | **Vyzhan Technologies**  
+*June 2024 – Present*  
+- Built scalable backend systems and integrated Firebase for real-time mobile applications using **Flutter**.  
+- Deployed applications to **Google Cloud Platform (GCP)** and integrated **Node.js** for server-side functionalities.  
+- Led **rapid prototyping** of mobile and web applications for clients.
 
-### **Elgi Private Limited**, Coimbatore  
-**Mobile App Development Intern** (Apr 2023 - Jul 2023)  
-- **Tech Stack**: Flutter  
-- Developed a customer-based and seller-based feedback mechanism.
+### **Mobile App Development Intern** | **Elgi Private Limited**  
+*April 2023 – July 2023*  
+- Developed a **Flutter**-based feedback system for customers and sellers in a mobile application.  
+- Collaborated with cross-functional teams to improve user engagement through seamless app experiences.
 
-### **Altruistry**, Chennai  
-**App Development Intern** (Mar 2024 - May 2024)  
-- **Tech Stack**: Flutter  
-- Independently developed mobile applications using Flutter.
-
----
-
-## 💻 Projects
-
-### 1. **Yukta** – College Symposium 2023 (Launched on Google Play)
-- A mobile app for managing college symposium events.
-
-### 2. **Admin Auth** – OTP Management System
-- Developed a communication API for sending OTP-based text messages for authentication.
-
-### 3. **Wave** – Real-Time Synchronized Video Streaming Platform
-- Enables users to watch videos together in real-time.
-
-### 4. **Expense Approval Workflow – Gen AI**
-- Developed an AI-based system for auto-routing and auto-approval of expense reports.
-
-### 5. **Instant Messaging Application**
-- Built a real-time instant messaging application using Flutter.
-
-### 6. **Hack4Change** – Agricultural App  
-- Developed an app for agricultural purposes, which was featured in the **Top 14 Nationwide** at **Hack4Change** by **Google** (highlighted below).
+### **App Development Intern** | **Altruistry**  
+*March 2024 – May 2024*  
+- Independently developed **Flutter**-based mobile apps from concept to deployment, focusing on user-centric design and functionality.
 
 ---
 
-## 🏆 Competitions & Achievements
+## 💻 **Highlighted Projects**  
 
-| **Event** | **Project** | **Prize** | **Date** |
-|-----------|-------------|-----------|----------|
-| **Hack4Change** by **Google** | Agricultural Application | **Top 14 Nationwide** | Sep 2023 |
-| **RVS College of Engineering, Coimbatore** | Project Presentation | 1st Prize | Apr 2024 |
-| **University College of Engineering, Ramanathapuram** | Coding | 1st Prize | Feb 2023 |
-| **Nandha Engineering College, Erode** | Code Debugging | 1st Prize | Feb 2023 |
-| **Naan Mudhalvan Short Film Festival 2023** | Directed a short film | - | 2023 |
+| **Project** | **Description** | **Tech Stack** |  
+|-------------|-----------------|----------------|  
+| **[Yukta](https://play.google.com/store/apps/details?id=com.example.yukta)** | College Symposium management app launched on **Google Play**. | Flutter, Firebase |  
+| **[Admin Auth](#)** | OTP-based authentication system for secure admin access. | Node.js, Firebase, OTP API |  
+| **[Wave](#)** | Real-time synchronized video streaming platform for social watching. | Flutter, Firebase, WebRTC |  
+| **[Expense Approval Workflow – Gen AI](https://github.com/sarathipartha085/Expense-Approval-Workflow-use-case)** | AI-powered expense routing and approval system. | Java, Spring Boot, GCP |  
+| **Instant Messaging App** | Real-time chat app with messaging and notifications. | Flutter, Firebase |  
 
 ---
 
-## 🤝 Professional Engagement
+## 🏆 **Competitions & Achievements**  
 
-### **Make A Difference (MAD)** – Coimbatore  
+| **Event** | **Project** | **Award** | **Date** |  
+|-----------|-------------|-----------|----------|  
+| **Hack4Change by Google** | Agricultural App | **Top 14 Nationwide** | Sep 2023 |  
+| **RVS College of Engineering** | Project Presentation | **1st Prize** | Apr 2024 |  
+| **University College of Engineering** | Coding Challenge | **1st Prize** | Feb 2023 |  
+| **Nandha Engineering College** | Code Debugging | **1st Prize** | Feb 2023 |
+
+---
+
+## 🤝 **Community Engagement**  
+
+### **Make A Difference (MAD)** – **Coimbatore**  
 **Educational Support Volunteer** (Since 2021)  
-- Contributed to educational initiatives by supporting children and educators in the community.
+- Helping children in underserved communities with educational support and mentorship.  
 
 ---
 
-## 📫 Let's Connect
-
-- **LinkedIn**: [Parthasarathi M](https://www.linkedin.com/in/sarathipartha085/)
-- **LeetCode**: [sarathipartha085](https://leetcode.com/u/sarathipartha085/)
-- **Email**: [sarathipartha085@gmail.com](mailto:sarathipartha085@gmail.com)
-- **Phone**: +91 81446 63240
-- **GitHub**: [@sarathipartha085](https://github.com/sarathipartha085)
+## 💡 **Fun Fact**  
+> "Technology is the future, and I'm building it—one app at a time."
 
 ---
 
-## 💡 Fun Fact
+With a blend of **technical expertise**, **practical experience**, and an insatiable **drive for learning**, I’m always looking for opportunities to collaborate, innovate, and create. If you’re looking for a passionate, **solutions-driven developer**, **let's connect!**
 
-> "Technology is the future, and I am building it one app at a time."
+---
+
