@@ -40,7 +40,7 @@ I'm a **Software Engineer**, **Backend Developer**, and **Hybrid Mobile App Deve
 
 | **Degree** | **Institution** | **Year** | **CGPA/Percentage** |  
 |------------|-----------------|----------|---------------------|  
-| **B.E. Computer Science** | PSG Institute of Technology | 2021–2025 | **8.22 CGPA** (Up to 5th Semester)  
+| **B.E. Computer Science** | PSG Institute of Technology And Applied Research | 2021–2025 | **8.23 CGPA** (Up to 6th Semester)  
 | **12th Standard** | St. Aloysius Higher Secondary School | May 2021 | **93.79%**  
 | **10th Standard** | St. Aloysius Higher Secondary School | Mar 2019 | **94.60%**  
 
