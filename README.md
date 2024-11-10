@@ -2,14 +2,13 @@
 
 ![Profile Banner](https://media.licdn.com/dms/image/v2/D5616AQFxgd-81G7dsw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731268152679?e=1736985600&v=beta&t=kMq789EmtbvMNKBZcg8IW7-OxEEIbxCdCzEeM6uGt40)
 
-
 Hi, I'm **Parthasarathi M**, a passionate **Software Engineer**, **Backend Developer**, and **Hybrid Mobile App Developer** focused on creating impactful, scalable applications. With expertise in **Flutter**, **Spring Boot**, **Cloud Services**, and **Mobile Development**, I am always seeking new challenges to solve through clean code and innovative solutions.
 
 ---
 
 ## 🏆 **Achievements**
 
-- **Top 14 Nationwide** in **[Hack4Change by Google](https://developers.google.com/community/hack4change)** (Sep 2023)  
+- **Top 14 Nationwide** in **[Hack4Change by Google](https://developers.google.com/community/hack4change){:target="_blank"}** (Sep 2023)  
 - **1st Prize** in **Project Presentation** at **RVS College of Engineering** (Apr 2024)  
 - **1st Prize** in **Coding Challenge** at **University College of Engineering** (Feb 2023)
 
@@ -30,8 +29,8 @@ Hi, I'm **Parthasarathi M**, a passionate **Software Engineer**, **Backend Devel
 
 ## 📬 **Get In Touch**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarathipartha085/) &nbsp;&nbsp;&nbsp; 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sarathipartha085/) &nbsp;&nbsp;&nbsp; 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarathipartha085/){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sarathipartha085/){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarathipartha085@gmail.com) &nbsp;&nbsp;&nbsp; 
 [![Phone](https://img.shields.io/badge/Phone-%2300A859?style=flat&logo=phone&logoColor=white)](tel:+918144663240)
 
@@ -82,9 +81,9 @@ Hi, I'm **Parthasarathi M**, a passionate **Software Engineer**, **Backend Devel
 
 | **Project**                                          | **Tech Stack**                                                                                               | **Description**                                               |  
 |------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|  
-| **[Yukta](https://play.google.com/store/apps/details?id=com.example.yukta)**  | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) | A **college symposium management app** available on **Google Play**. |  
-| **[Expense Approval Workflow - Gen AI](https://github.com/sarathipartha085/Expense-Approval-Workflow-use-case)** | ![React](https://img.shields.io/badge/React-%2302569B.svg?&style=flat&logo=react&logoColor=white), ![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=flat&logo=python&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white) | AI-powered expense routing and approval system. |  
-| **[Instant Messaging App](https://github.com/sarathipartha085/Instant-Messaging-App)**                            | ![React](https://img.shields.io/badge/React-%2302569B.svg?&style=flat&logo=react&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) | A real-time **chat application** with messaging and notifications. |  
+| **[Yukta](https://play.google.com/store/apps/details?id=com.example.yukta){:target="_blank"}**  | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) | A **college symposium management app** available on **Google Play**. |  
+| **[Expense Approval Workflow - Gen AI](https://github.com/sarathipartha085/Expense-Approval-Workflow-use-case){:target="_blank"}** | ![React](https://img.shields.io/badge/React-%2302569B.svg?&style=flat&logo=react&logoColor=white), ![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=flat&logo=python&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white) | AI-powered expense routing and approval system. |  
+| **[Instant Messaging App](https://github.com/sarathipartha085/Instant-Messaging-App){:target="_blank"}**                            | ![React](https://img.shields.io/badge/React-%2302569B.svg?&style=flat&logo=react&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) | A real-time **chat application** with messaging and notifications. |  
 | **[Wave](#)** | ![React](https://img.shields.io/badge/React-%2302569B.svg?&style=flat&logo=react&logoColor=white), ![WebRTC](https://img.shields.io/badge/WebRTC-%23F3F3F3.svg?&style=flat&logo=webrtc&logoColor=black), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) | A **real-time synchronized video streaming platform** for social watching. |  
 | **[Admin Auth](#)** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) | An **OTP-based authentication system** for secure admin access. |  
 
@@ -117,8 +116,8 @@ Hi, I'm **Parthasarathi M**, a passionate **Software Engineer**, **Backend Devel
 
 ## 🌐 **Connect with Me**
 Feel free to reach out through the following platforms for collaborations, job opportunities, or just to chat about tech:
-- **[LinkedIn](https://www.linkedin.com/in/sarathipartha085/)**  
-- **[LeetCode](https://leetcode.com/u/sarathipartha085/)**  
+- **[LinkedIn](https://www.linkedin.com/in/sarathipartha085/){:target="_blank"}**  
+- **[LeetCode](https://leetcode.com/u/sarathipartha085/){:target="_blank"}**  
 - **Email**: sarathipartha085@gmail.com  
 
 ---
