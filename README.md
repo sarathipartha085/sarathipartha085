@@ -18,7 +18,7 @@ Hi, I'm **Parthasarathi M**, a passionate **Software Engineer**, **Backend Devel
 
 - **📚** Currently exploring: Cloud Architecture, Backend API development, and Flutter (Mobile Apps).  
 - **💼** Actively looking for opportunities in **Backend Development** and **Mobile App Development**.
-- **💬** Interested in discussing: 
+- **💬** Interested in discussing:  
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;&nbsp;&nbsp; 
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white) &nbsp;&nbsp;&nbsp; 
   ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?&style=flat&logo=node.js&logoColor=white) &nbsp;&nbsp;&nbsp; 
