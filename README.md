@@ -15,19 +15,19 @@ I'm a **Software Engineer**, **Backend Developer**, and **Hybrid Mobile App Deve
 
 ## 🔥 **Current Focus & Availability**
 
-- **💼 Role**: Software Development Intern at **Vyzhan Technologies**
-- **📚 Learning**: Cloud Services, Backend APIs, Mobile Development (Flutter)
-- **🎯 Open to Work**: Actively seeking **Backend Developer** and **Mobile App Developer** roles
-- **💬 Ask me about**: **Flutter**, **Spring Boot**, **Node.js**, **GCP**, **Firebase**
+- **💼** Software Development Intern at **Vyzhan Technologies**
+- **📚** Learning: Cloud Services, Backend APIs, Mobile Development (Flutter)
+- **🎯** Open to Work: Actively seeking **Backend Developer** and **Mobile App Developer** roles
+- **💬** Ask me about: ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white), ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?&style=flat&logo=node.js&logoColor=white), ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?&style=flat&logo=googlecloud&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white)
 
 ---
 
 ## 📬 **Let's Connect!**  
 
-- **📧 Email**: [sarathipartha085@gmail.com](mailto:sarathipartha085@gmail.com)  
-- **🔗 LinkedIn**: [Parthasarathi M](https://www.linkedin.com/in/sarathipartha085/)  
-- **💻 LeetCode**: [sarathipartha085](https://leetcode.com/u/sarathipartha085/)  
-- **📱 Phone**: +91 81446 63240  
+- **📧** [sarathipartha085@gmail.com](mailto:sarathipartha085@gmail.com)  
+- **🔗** [LinkedIn](https://www.linkedin.com/in/sarathipartha085/)  
+- **💻** [LeetCode](https://leetcode.com/u/sarathipartha085/)  
+- **📱** +91 81446 63240  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarathipartha085/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sarathipartha085/)
@@ -57,14 +57,13 @@ I'm a **Software Engineer**, **Backend Developer**, and **Hybrid Mobile App Deve
 | **Specializations**         | **Mobile App Development**, **Backend API Development**, **Cloud Computing & Services**, **Rapid Prototyping** |  
 | **Fundamental Expertise**   | ![OOP](https://img.shields.io/badge/Object-Oriented_Programming-%2312B7F5.svg?&style=flat&logo=java&logoColor=white), ![Data Structures](https://img.shields.io/badge/Data_Structures-%2316C60C.svg?&style=flat&logo=data-structure&logoColor=white) |  
 
-
 ---
 
 ## 💼 **Professional Experience**  
 
 ### **Software Development Intern** | **Vyzhan Technologies**  
 *June 2024 – Present*  
-- Built scalable backend systems and integrated Firebase for real-time mobile applications using **Flutter**.  
+- Built scalable backend systems and integrated Firebase for real-time mobile applications using ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white).  
 - Deployed applications to **Google Cloud Platform (GCP)** and integrated **Node.js** for server-side functionalities.  
 - Led **rapid prototyping** of mobile and web applications for clients.
 
