@@ -15,19 +15,13 @@ I'm a **Software Engineer**, **Backend Developer**, and **Hybrid Mobile App Deve
 
 ## 🔥 **Current Focus & Availability**
 
-- **💼** Software Development Intern at **Vyzhan Technologies**
 - **📚** Learning: Cloud Services, Backend APIs, Mobile Development (Flutter)
 - **🎯** Open to Work: Actively seeking **Backend Developer** and **Mobile App Developer** roles
-- **💬** Ask me about: ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white), ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?&style=flat&logo=node.js&logoColor=white), ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?&style=flat&logo=googlecloud&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white)
+- **💬** Ask me about: ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?&style=flat&logo=node.js&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?&style=flat&logo=googlecloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white)
 
 ---
 
 ## 📬 **Let's Connect!**  
-
-- **📧** [sarathipartha085@gmail.com](mailto:sarathipartha085@gmail.com)  
-- **🔗** [LinkedIn](https://www.linkedin.com/in/sarathipartha085/)  
-- **💻** [LeetCode](https://leetcode.com/u/sarathipartha085/)  
-- **📱** +91 81446 63240  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarathipartha085/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sarathipartha085/)
@@ -50,12 +44,12 @@ I'm a **Software Engineer**, **Backend Developer**, and **Hybrid Mobile App Deve
 
 | **Category**                | **Skills**                                                                                                                                                          |  
 |-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| **Languages**               | ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white), ![Java](https://img.shields.io/badge/Java-%23F7B731.svg?&style=flat&logo=java&logoColor=white), ![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=flat&logo=python&logoColor=white), ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white) |  
-| **Frameworks**              | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white) |  
-| **Cloud & Backend**         | ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?&style=flat&logo=googlecloud&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) |  
-| **Tools & Platforms**       | ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat&logo=linux&logoColor=black), ![Windows](https://img.shields.io/badge/Windows-%2300A4EF.svg?&style=flat&logo=windows&logoColor=white) |  
+| **Languages**               | ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23F7B731.svg?&style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white) |  
+| **Frameworks**              | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white) |  
+| **Cloud & Backend**         | ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?&style=flat&logo=googlecloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) |  
+| **Tools & Platforms**       | ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-%2300A4EF.svg?&style=flat&logo=windows&logoColor=white) |  
 | **Specializations**         | **Mobile App Development**, **Backend API Development**, **Cloud Computing & Services**, **Rapid Prototyping** |  
-| **Fundamental Expertise**   | ![OOP](https://img.shields.io/badge/Object-Oriented_Programming-%2312B7F5.svg?&style=flat&logo=java&logoColor=white), ![Data Structures](https://img.shields.io/badge/Data_Structures-%2316C60C.svg?&style=flat&logo=data-structure&logoColor=white) |  
+| **Fundamental Expertise**   | ![OOP](https://img.shields.io/badge/Object-Oriented_Programming-%2312B7F5.svg?&style=flat&logo=java&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data_Structures-%2316C60C.svg?&style=flat&logo=data-structure&logoColor=white) |  
 
 ---
 
