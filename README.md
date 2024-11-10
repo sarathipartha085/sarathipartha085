@@ -22,7 +22,8 @@ Hi, I'm **Parthasarathi M**, a passionate **Software Engineer**, **Backend Devel
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;&nbsp;&nbsp; 
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white) &nbsp;&nbsp;&nbsp; 
   ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?&style=flat&logo=node.js&logoColor=white) &nbsp;&nbsp;&nbsp; 
-  ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?&style=flat&logo=googlecloud&logoColor=white)
+  ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?&style=flat&logo=googlecloud&logoColor=white) &nbsp;&nbsp;&nbsp;
+  ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white)
 
 ---
 
@@ -47,13 +48,13 @@ Hi, I'm **Parthasarathi M**, a passionate **Software Engineer**, **Backend Devel
 
 ## 🔧 **Technical Skills**
 
-| **Category**            | **Skills**                                                                                               |  
-|-------------------------|----------------------------------------------------------------------------------------------------------|  
-| **Languages**           | ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23F7B731.svg?&style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=flat&logo=python&logoColor=white) |  
-| **Frameworks**          | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white) |  
-| **Cloud Services**      | ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?&style=flat&logo=googlecloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) |  
-| **Tools & Platforms**   | ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat&logo=linux&logoColor=black) |  
-| **Specializations**     | **Mobile App Development**, **Backend API Development**, **Cloud Computing**, **Data Structures & Algorithms** |  
+| **Tech Stack**           | **Skills**                                                                                               |  
+|--------------------------|----------------------------------------------------------------------------------------------------------|  
+| **Languages**            | ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23F7B731.svg?&style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=flat&logo=python&logoColor=white) |  
+| **Frameworks**           | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white) |  
+| **Cloud Services**       | ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?&style=flat&logo=googlecloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) |  
+| **Tools & Platforms**    | ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-%23007ACC.svg?&style=flat&logo=windows&logoColor=white) |  
+| **Specializations**      | **Mobile App Development**, **Backend API Development**, **Cloud Computing**, **Data Structures & Algorithms** |  
 
 ---
 
@@ -85,7 +86,6 @@ Hi, I'm **Parthasarathi M**, a passionate **Software Engineer**, **Backend Devel
 | **[Instant Messaging App](https://github.com/sarathipartha085/Instant-Messaging-App)**                            | ![React](https://img.shields.io/badge/React-%2302569B.svg?&style=flat&logo=react&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) | A real-time **chat application** with messaging and notifications. |  
 | **[Wave](#)** | ![React](https://img.shields.io/badge/React-%2302569B.svg?&style=flat&logo=react&logoColor=white), ![WebRTC](https://img.shields.io/badge/WebRTC-%23F3F3F3.svg?&style=flat&logo=webrtc&logoColor=black), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) | A **real-time synchronized video streaming platform** for social watching. |  
 | **[Admin Auth](#)** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) | An **OTP-based authentication system** for secure admin access. |  
-| **[Admin Panel - CRUD Operations](#)** | ![React](https://img.shields.io/badge/React-%2302569B.svg?&style=flat&logo=react&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white) | A **CRUD admin panel** for managing database entries and user roles. |
 
 ---
 
