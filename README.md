@@ -49,22 +49,32 @@ I'm a **Software Engineer**, **Backend Developer**, and **Hybrid Mobile App Deve
 ## 🛠️ **Technical Skills**  
 
 **Languages**:  
-- **C**, **Java**, **Python**, **Dart**
+- ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white) **C**  
+- ![Java](https://img.shields.io/badge/Java-%23F7B731.svg?&style=flat&logo=java&logoColor=white) **Java**  
+- ![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=flat&logo=python&logoColor=white) **Python**  
+- ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white) **Dart**
 
 **Frameworks**:  
-- **Flutter** (3+ years), **Spring Boot**
+- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white) **Flutter** (3+ years)  
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white) **Spring Boot**
 
 **Cloud & Backend**:  
-- **GCP** (App Engine, Compute Engine), **Firebase**
+- ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?&style=flat&logo=googlecloud&logoColor=white) **Google Cloud Platform (GCP)**  
+- ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) **Firebase**
 
 **Tools & Platforms**:  
-- **Linux**, **Windows**
+- ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat&logo=linux&logoColor=black) **Linux**  
+- ![Windows](https://img.shields.io/badge/Windows-%2300A4EF.svg?&style=flat&logo=windows&logoColor=white) **Windows**
 
 **Specializations**:  
 - **Mobile Application Development**  
 - **Backend API Development**  
 - **Cloud Computing & Services**  
 - **Rapid Prototyping**
+
+**Fundamental Expertise**:  
+- ![OOP](https://img.shields.io/badge/Object-Oriented_Programming-%2312B7F5.svg?&style=flat&logo=java&logoColor=white) **Object-Oriented Programming (Java)**  
+- ![Data Structures](https://img.shields.io/badge/Data_Structures-%2316C60C.svg?&style=flat&logo=data-structure&logoColor=white) **Data Structures**
 
 ---
 
@@ -91,11 +101,11 @@ I'm a **Software Engineer**, **Backend Developer**, and **Hybrid Mobile App Deve
 
 | **Project** | **Description** | **Tech Stack** |  
 |-------------|-----------------|----------------|  
-| **[Yukta](https://play.google.com/store/apps/details?id=com.example.yukta)** | College Symposium management app launched on **Google Play**. | Flutter, Firebase |  
-| **[Admin Auth](#)** | OTP-based authentication system for secure admin access. | Node.js, Firebase, OTP API |  
-| **[Wave](#)** | Real-time synchronized video streaming platform for social watching. | Flutter, Firebase, WebRTC |  
-| **[Expense Approval Workflow – Gen AI](https://github.com/sarathipartha085/Expense-Approval-Workflow-use-case)** | AI-powered expense routing and approval system. | Java, Spring Boot, GCP |  
-| **Instant Messaging App** | Real-time chat app with messaging and notifications. | Flutter, Firebase |  
+| **[Yukta](https://play.google.com/store/apps/details?id=com.example.yukta)** | College Symposium management app launched on **Google Play**. | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) |  
+| **[Admin Auth](#)** | OTP-based authentication system for secure admin access. | ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?&style=flat&logo=node.js&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) |  
+| **[Wave](#)** | Real-time synchronized video streaming platform for social watching. | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white), ![WebRTC](https://img.shields.io/badge/WebRTC-%23F3F3F3.svg?&style=flat&logo=webrtc&logoColor=black) |  
+| **[Expense Approval Workflow – Gen AI](https://github.com/sarathipartha085/Expense-Approval-Workflow-use-case)** | AI-powered expense routing and approval system. | ![Java](https://img.shields.io/badge/Java-%23F7B731.svg?&style=flat&logo=java&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white), ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?&style=flat&logo=googlecloud&logoColor=white) |  
+| **Instant Messaging App** | Real-time chat app with messaging and notifications. | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=flat&logo=firebase&logoColor=white) |  
 
 ---
 
@@ -124,6 +134,3 @@ I'm a **Software Engineer**, **Backend Developer**, and **Hybrid Mobile App Deve
 ---
 
 With a blend of **technical expertise**, **practical experience**, and an insatiable **drive for learning**, I’m always looking for opportunities to collaborate, innovate, and create. If you’re looking for a passionate, **solutions-driven developer**, **let's connect!**
-
----
-
