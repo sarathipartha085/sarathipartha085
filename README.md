@@ -15,6 +15,14 @@ Hi, I'm **Parthasarathi M**, a passionate **Software Engineer**, **Backend Devel
 
 ---
 
+## 📍 **Public Profile**
+
+Here’s a quick glance at my coding journey! You can track my progress and achievements on **LeetCode**:
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sarathipartha085?theme=dark&font=Fira%20Code&extension=activity)](https://leetcode.com/u/sarathipartha085/)
+
+---
+
 ## 🚀 **What I’m Working On**
 
 - **📚** Currently exploring: Cloud Architecture, Backend API development, and Flutter (Mobile Apps).  
