@@ -22,6 +22,9 @@ Here’s a quick glance at my coding journey! You can track my progress and achi
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sarathipartha085?theme=dark&font=Fira%20Code&extension=activity)](https://leetcode.com/u/sarathipartha085/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sarathipartha085/)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/sarathipartha085?theme=dark&font=Inter&ext=activity)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sarathipartha085/)
 
 ---
 
